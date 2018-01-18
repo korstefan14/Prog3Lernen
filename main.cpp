@@ -5,7 +5,7 @@
 
 int main() {
 
-    std::cout << fib(21) << std::endl;
+    std::cout << fib(20) << std::endl;
     //std::cout << compare("Nasenbein","Nasenbeinbruch") << std::endl;
     return 0;
 }
