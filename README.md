@@ -6,4 +6,4 @@ Das Projekt ist so aus Clion hochgeladen worden und sollte mit den CLion VCS-too
 
 Für alle anderen:
 Ihr müsst selber schauen, wie ihr die Files in eure IDE bekommt, 
-ihr braucht NICHT den .idea ordner, die README und die Cmake.txt
+ihr braucht NICHT den .idea ordner, die README.md und die CMakeLists.txt
