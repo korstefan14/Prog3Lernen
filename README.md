@@ -1,7 +1,7 @@
 # Prog3Lernen
 Das Projekt zum Prog3-Lernen
 
-FÜr CLion-Nutzer:
+Für CLion-Nutzer:
 Das Projekt ist so aus Clion hochgeladen worden und sollte mit den CLion VCS-tools sehr einfach importierbar sein.
 
 Für alle anderen:
